@@ -1,2 +1,5 @@
-# mercibien.net-gui
-Merci bien web user interface
+
+
+# mercibien.net — Web User Interface
+
+See https://mercibien.net/
